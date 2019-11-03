@@ -1,0 +1,10 @@
+Good code is short, fast, elegant,easy to read/understand, simple, easy to modify and extend,
+easy to scale, refactor and easy to test.
+Python was created by Guido Van Rossum in 1989.
+Python offers:
+	1. Portability
+	2. Coherence/ logical & consistent
+	3. Shorter code
+	4. Extensive library
+	5. Versatile:multiple use scripting, object oriented, imperative and functional programming.
+Python is used in  many different contexts like system programming, web development, GUI based applications, gaming, IoT, rapid prototyping, data science, database applications etc.
